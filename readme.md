@@ -1,6 +1,6 @@
 # Netflix Clone - HTML & CSS
 
-A simple and responsive **Netflix clone** built with **HTML** and **CSS**. It replicates the look and feel of the Netflix homepage.
+A simple and responsive **Netflix clone** built with **HTML** and **CSS**. It replicates the look and feel of the Netflix homepage. 
 
 ## Features:
 - **Responsive Design**: The site adjusts to different screen sizes, making it suitable for both desktop and mobile devices.
